@@ -23,9 +23,18 @@ public class ArrayClass {
     }
 }
 // REMOTE git branch 1 | git branch 2
-
-
+                //
+              //
             //  git push
-
+          //
 // LOCAL: git branch 1 | git branch 2
 // LOCAL: git init | git add |  git commit  | git branch 1 | brnach 2 | branch 3| git stash | git tag | tag 1| ta2
+
+/**
+ * WAJP to save all alphabets in an array.
+ * WAJP to save all alphabets in an array and print in reverse order.
+ * WAJP to save all even numbers from 0-100 in an array and print it.
+ * WAJP to save all odd numbers from 0-100 in an array and print it.
+ * WAJP to save all multiple of 3 and 5 from 0-100 in an array and print it.
+ * */
+
