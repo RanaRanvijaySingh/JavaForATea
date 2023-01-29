@@ -12,7 +12,7 @@ public class ArrayAssignment {
 
         //    WAJP to save all alphabets in an array.
 
-        /*char c = 'a';
+       /* char c = 'a';
         char arr[] = new char[26];
         for (int i = 0; i < arr.length; i++) {
             arr[i] = c;
@@ -30,7 +30,7 @@ public class ArrayAssignment {
         }*/
 
         // * WAJP to save all even numbers from 0-100 in an array and print it.
-        int val = 1, i = 0;
+        /*int val = 1, i = 0;
         int arr[] = new int[50];
         while (i < arr.length){
             if( val % 2 == 0){
@@ -41,7 +41,7 @@ public class ArrayAssignment {
         }
         for (int j = 0; j < arr.length; j++){
             System.out.print(arr[j] + " ");
-        }
+        }*/
 
         // * WAJP to save all odd numbers from 0-100 in an array and print it.
         /*int val = 1, i = 0;
@@ -61,7 +61,7 @@ public class ArrayAssignment {
         /*int val = 1, i = 0;
         int arr[] = new int[50];
         while (i < arr.length){
-            if( val % 3 == 0 || val % 5 == 0){
+            if( val % 3 == 0 && val % 5 == 0){
                 arr[i] = val;
                 i++;
             }
